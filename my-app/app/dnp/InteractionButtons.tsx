@@ -21,7 +21,7 @@ export default function InteractionButtons() {
         <ButtonWithSpeech text="Itchy" />
         <ButtonWithSpeech text="Pain" />
       </div>
-      <div className="flex items-stretch justify-center gggap-4">
+      <div className="flex items-stretch justify-center gap-4">
         <ButtonWithSpeech text="Nose" />
         <ButtonWithSpeech text="Neck" />
         <ButtonWithSpeech text="Back" />
