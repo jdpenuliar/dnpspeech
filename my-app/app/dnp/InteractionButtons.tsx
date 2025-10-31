@@ -25,8 +25,6 @@ export default function InteractionButtons() {
         <ButtonWithSpeech text="Nose" />
         <ButtonWithSpeech text="Neck" />
         <ButtonWithSpeech text="Back" />
-        <ButtonWithSpeech text="Neck" />
-        <ButtonWithSpeech text="Back" />
       </div>
       <div className="flex justify-center gap-4">
         <ButtonWithSpeech text="Uncomfortable" />
